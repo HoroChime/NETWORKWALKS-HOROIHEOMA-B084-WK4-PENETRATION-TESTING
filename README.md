@@ -128,6 +128,17 @@ Detailed evidence and sensitive artefacts are excluded from this public reposito
 
 ## Evidence & Screenshots
 
+
+<img width="956" height="484" alt="kali1" src="https://github.com/user-attachments/assets/4e80f70c-2889-4652-82b4-421051d5bf75" />
+<img width="947" height="482" alt="kali2" src="https://github.com/user-attachments/assets/ccdf9778-bf47-49c2-a6fe-b691283622de" />
+<img width="917" height="481" alt="kali3" src="https://github.com/user-attachments/assets/16888edd-11ad-40d5-948f-c5f075bd9082" />
+<img width="940" height="485" alt="kali4" src="https://github.com/user-attachments/assets/bf80dd9c-705b-4fde-9601-bb85b975f7ba" />
+<img width="943" height="479" alt="kali5" src="https://github.com/user-attachments/assets/15c5d92c-7f43-458b-acc7-8a4533ca4586" />
+<img width="930" height="481" alt="kali6" src="https://github.com/user-attachments/assets/2b9f6715-fe04-4aa7-80e0-0448a0474638" />
+<img width="388" height="323" alt="zenmap2" src="https://github.com/user-attachments/assets/1abce78c-2fda-4828-a545-736c18f149fd" />
+<img width="371" height="316" alt="zenmap1" src="https://github.com/user-attachments/assets/0826f3e5-2bce-4550-a59f-40f78ea8fa8e" />
+
+
 <img width="270" height="385" alt="wordlist generator" src="https://github.com/user-attachments/assets/c7ea6bbe-8340-4d4b-a057-1e7a0914e994" />
 
 
