@@ -1,3 +1,4 @@
+
 # NETWORKWALKS-HOROIHEOMA-B084-WK4-PENETRATION-TESTING
 Black-Box Web Application Penetration Testing Assessment environment: Mediroza Hospital demonstration environment Programme: Networkwalks Cybersecurity Internship Batch: B084. Assessment type: Authorized educational security assessment. Platform: Kali Linux
 
@@ -135,6 +136,7 @@ Detailed evidence and sensitive artefacts are excluded from this public reposito
 <img width="940" height="485" alt="kali4" src="https://github.com/user-attachments/assets/bf80dd9c-705b-4fde-9601-bb85b975f7ba" />
 <img width="943" height="479" alt="kali5" src="https://github.com/user-attachments/assets/15c5d92c-7f43-458b-acc7-8a4533ca4586" />
 <img width="930" height="481" alt="kali6" src="https://github.com/user-attachments/assets/2b9f6715-fe04-4aa7-80e0-0448a0474638" />
+<img width="938" height="482" alt="curl" src="https://github.com/user-attachments/assets/a2241f70-0397-46bd-ab4b-34c8716e7011" />
 <img width="388" height="323" alt="zenmap2" src="https://github.com/user-attachments/assets/1abce78c-2fda-4828-a545-736c18f149fd" />
 <img width="371" height="316" alt="zenmap1" src="https://github.com/user-attachments/assets/0826f3e5-2bce-4550-a59f-40f78ea8fa8e" />
 
